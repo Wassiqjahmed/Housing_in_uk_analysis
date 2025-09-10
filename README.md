@@ -7,6 +7,15 @@ The goal of this project is to see how house prices have changed in UK overtime 
 
 This project analyses UK housing market data between 1995 and 2018 using SQL and Tableau. 
 
+## 📂 Data Source
+
+The data used in this project was sourced from Kaggle:
+
+- **Housing in London (1995–2021)**  
+  [Justinas – Kaggle Dataset Link](https://www.kaggle.com/datasets/justinas/housing-in-london)
+
+This dataset contains housing and demographic data for London and the UK, including house prices, number of houses sold, average salaries, crime stats, population size, and more, across multiple years.
+
 ## 🔍 Project Goals
 - Understand long-term trends in house prices and salaries
 - Compare % growth in average salary vs house prices
